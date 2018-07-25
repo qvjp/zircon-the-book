@@ -1,6 +1,8 @@
 # Fuchsia不是Linux
 _一个模块化,高性能操作系统_
 
+[English](https://fuchsia.googlesource.com/docs/+/master/the-book/)
+
 本文档是Fuchsia操作系统描述文章集合，围绕特定子系统组织，文档将持续完成。
 
 ## Zircon 内核
